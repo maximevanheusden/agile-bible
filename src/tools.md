@@ -1,15 +1,20 @@
-# IDE & Tools
+# Tools to use
 
-The most important tool in your toolbox is your IDE.
-It's the tool you use the most and it's the tool that can make or break your productivity.
+To guarantee the succes of your projects, it's very important that all of the information about a project is accesible in one place and is kept up to date.  
+For the overview of projects and the work that is to be done, we make use of the survices of Atlassian.
 
-## IDE
+## Confluence ℹ
 
-There are 2 options for IDE's:
+All of the information that is available about a product is kept up to date in Confluence:
 
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [WebStorm](https://www.jetbrains.com/webstorm/)
+- [Confluence](https://www.atlassian.com/software/confluence)
 
-## Plugins
+## Jira ✏️
 
-- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+To keep track of analysis, design and development work, we use Jira:
+- [Jira](https://www.atlassian.com/software/jira)
+
+## Calender 🗓
+
+To stay up to date with all of the sprint related meetings, you have to keep an eye on your calender:
+- [Calender](https://calendar.google.com/calendar)
