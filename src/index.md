@@ -3,51 +3,39 @@
 layout: home
 
 hero:
-  name: 'The Frontend Bible'
-  tagline: 'A guide for creating great web applications.'
+  name: 'The Agile Bible'
+  tagline: 'A guide to follow Agile principles, the Wise-Way.'
   actions:
     - theme: brand
       text: Get Started
-      link: /components
+      link: /the-agile-manifesto
     - theme: alt
       text: View on GitHub
       link: https://github.com/appwise-labs/frontend-bible
 
 features:
+  - icon: 📚
+    title: The Agile Manifesto
+    details: Learn the ground principles of Agile
+    link: /the-agile-manifesto
   - icon: 🛠
     title: Tools
-    details: How to setup your development environment, IDE, plugins and more.
+    details: Which tools are essential for an Agile framework.
     link: /tools
-  - icon: 🧬
-    title: Design patterns
-    details: Measure twice, cut once. How design patterns can help you create better code.
-    link: /design-patterns
-  - icon: 📝
-    title: Naming conventions
-    details: How to name your files, variables, functions, components, ...
-    link: /naming-conventions
-  - icon: 📚
-    title: Project structure
-    details: Creating applications that scale. From a landing page to a full Saas platform.
-    link: /project-structure
-  - icon: 🧹
-    title: Clean code
-    details: How to write clean code that is easy to understand and maintain.
-    link: /clean-code
+  - icon: 💁🏼‍♀️
+    title: Roles
+    details: Who is who and where do the responsibilities lie.
+    link: /roles   
+  - icon: ♾
+    title: Scrum cycles
+    details: What is happening, and when is it happening.
+    link: /scrum-cycles
+  - icon: 🔓
+    title: Key concepts
+    details: Some key Agile concepts explained.
+    link: /key-concepts
   - icon: 🧩
-    title: Components 101
-    details: How to create great components that are easy to use and understand
-    link: /components
-  - icon: 📦
-    title: Reusable code
-    details: How to create reusable code that can be used in multiple components.
-    link: /reusable-code
-  - icon: 🧪
-    title: Testing
-    details: How to write tests that matter and how they can help prevent regression.
-    link: /testing
-  - icon: 🤝
-    title: Team work makes the dream work
-    details: How to work together in a team and stimulate a culture of sharing knowledge and best practices.
-    link: /teamwork
+    title: Culture
+    details: The culture essential to stimulating Agile processes
+    link: /culture
 ---
