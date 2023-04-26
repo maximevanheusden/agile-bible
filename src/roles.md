@@ -33,3 +33,4 @@ Takes on and determines how to deliver chunks of work in frequent increments
 * Perform unit and initial acceptance tests
 * Self-organize through changing work
 * Actively participate in daily stand-ups
+* Giving internal and external demo's

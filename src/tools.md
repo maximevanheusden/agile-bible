@@ -22,3 +22,8 @@ To stay up to date with all of the sprint related meetings, you have to keep an 
 ## Slack 🐌
 
 Communication is 🗝. Always keep an eye on your slack channels and messages and stay up to date with the latest news about projects in your team.
+
+## Miro 🔖
+
+Miro is an excellent tool to facilitate retrospectives.
+- [Miro](https://miro.com/)
