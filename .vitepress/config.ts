@@ -32,10 +32,10 @@ export default defineConfig({
           { text: 'Team', link: '/key-concepts/team' },
           { text: 'Personas', link: '/key-concepts/personas' },
           { text: 'User Stories', link: '/key-concepts/user-stories' },
-          { text: 'Daily Meeting', link: '/key-concepts/daily-standup' },
+          { text: 'Daily Stand-up', link: '/key-concepts/daily-standup' },
           { text: 'Iterative Development', link: '/key-concepts/iterative-development' },
           { text: 'Incremental Development', link: '/key-concepts/incremental-development' },
-          { text: 'Milestone Retrospective', link: '/key-concepts/sprint-retrospective' },
+          { text: 'Sprint Retrospective', link: '/key-concepts/sprint-retrospective' },
         ]
       },
     ],
