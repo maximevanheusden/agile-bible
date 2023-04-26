@@ -18,3 +18,7 @@ To keep track of analysis, design and development work, we use Jira:
 
 To stay up to date with all of the sprint related meetings, you have to keep an eye on your calender:
 - [Calender](https://calendar.google.com/calendar)
+
+## Slack 🐌
+
+Communication is 🗝. Always keep an eye on your slack channels and messages and stay up to date with the latest news about projects in your team.

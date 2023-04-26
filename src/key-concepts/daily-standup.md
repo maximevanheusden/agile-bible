@@ -1,6 +1,6 @@
 #### [Key Concepts](/key-concepts.md)
 
-# Daily Meeting
+# Daily Stand-up
 
 The daily meeting, also known as the daily stand-up in Scrum. Each day at the same time, the team meets so as to bring everyone up to date on the information that is vital for coordination: each team members briefly describes any “completed” contributions and any obstacles that stand in their way.
 
